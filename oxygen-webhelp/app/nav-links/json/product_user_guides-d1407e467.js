@@ -1,0 +1,1 @@
+oxy_webhelp_navlinks = {"product_user_guides-d1407e467":{"topics":[{"title":"Identity Manager (IDM) User Guide","href":"structure%20node%20(stem)%20topics\/product_1_0.html","attributes":{"data-id":"product_1_0"},"menu":{"hasChildren":true},"tocID":"product_1_0-d1407e478","next":"product_1_0-d1407e478"}]}};

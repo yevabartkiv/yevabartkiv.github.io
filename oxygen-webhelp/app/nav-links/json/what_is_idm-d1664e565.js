@@ -1,0 +1,1 @@
+oxy_webhelp_navlinks = {"what_is_idm-d1664e565":{"topics":[{"title":"What Business Process IdM is about","href":"structure%20node%20(stem)%20topics\/what_business_process_idm_is_about.html","attributes":{"data-id":"what_business_process_idm_is_about"},"menu":{"hasChildren":false},"tocID":"what_business_process_idm_is_about-d1664e573","topics":[]}]}};
